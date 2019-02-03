@@ -1,4 +1,5 @@
-SIGN2WORD
+# SIGN2WORD
+
 Dünyamızda konuşma engeli bulunan insanlar birbirleriyle genellikle işaret dilini kullanarak iletişim kurarlar.
 Fakat işaret dili toplumda herkes tarafından bilinmediği için, konuşma engeli bulunan insanlar dertlerini anlatamadığı
 için kendilerini toplumdan yalnızlaştırabiliyorlar. 
