@@ -12,3 +12,5 @@ uygulamaları vardır. Ancak bu uygulamaların daha çok giyilebilir bir ürün 
 zorunluluğunun olmasının cazip olmadığını düşünerek bizler, dış ortamda ki bir kamera ile bu problemi gidermeye çalıştık. 
 Görüntü İşleme ve DeepLearning alanlarında yapılan çalışmaları inceleyerek bu uygulamaların bizim sorunumuzu giderebilmesi için
 kullanılabilirliği açısından araştırmalar yaptık.
+# Projenin Videosu
+https://www.youtube.com/watch?v=D207Vrdodcc
